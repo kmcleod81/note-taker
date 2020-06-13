@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/kmcleod81/note-taker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "uuidv4": "^6.1.0"
   }
 }
