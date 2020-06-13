@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const path = require('path');
 
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;
 
 // requiring paths to routes folder
 const apiRoutes = require('./routes/apiRoutes.js');
