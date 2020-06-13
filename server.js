@@ -9,4 +9,7 @@ const PORT = 8080;
 const apiRoutes = require('./routes/apiRoutes.js');
 const htmlRoutes = require('./routes/htmlRoutes.js');
 
-app.listen(PORT);
+app.use("/api", apiRoutes);
+app.use("/", htmlRoutes);
+
+app.listen(PORT, () => console.log(`Listening at http://localhost:${PORT}`))
