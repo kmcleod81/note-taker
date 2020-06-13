@@ -9,6 +9,10 @@ const PORT = 8080;
 const apiRoutes = require('./routes/apiRoutes.js');
 const htmlRoutes = require('./routes/htmlRoutes.js');
 
+// middleware that is needed to use POST data
+app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
+
 app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
 
