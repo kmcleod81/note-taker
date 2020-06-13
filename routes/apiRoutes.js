@@ -16,6 +16,12 @@ const router = require('express').Router();
 // call the addNotes() from the class you required
 // res.json(note)
 
+//Use this maybe for dry code?
+app.all('/secret', function (req, res, next) {
+    console.log('Accessing the secret section ...')
+    next() // pass control to the next handler
+})
+
 // delete request for api/notes/:id
 // call the deleteNote() function
 
