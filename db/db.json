@@ -1,7 +1,1 @@
-[
-    {
-        "id": 1,
-        "title": "Test Title",
-        "text": "Test text"
-    }
-]
+[{"title":"Note title 1","text":"note text 1","id":"0eb451b5-01c9-467e-9675-56ef68956897"},{"title":"Note title 2","text":"note text 2","id":"1ad98ab4-d066-42ca-883c-b938117ad350"},{"title":"Note title 3","text":"note text 3","id":"fcea2c71-e5a0-4a44-9fc8-fbc7d765c7f4"}]
