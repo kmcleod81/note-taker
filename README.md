@@ -1,6 +1,6 @@
 # note-taker
 
-![Note Taker](https://drive.google.com/file/d/1uhFxxPIpJu0w7z2Z83WCN5QbwJOJO6z8/view)
+![Note Taker](./public/assets/img/noteTaker.gif)
 
 ## Table of Contents:
 * [Description](#Description)
