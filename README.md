@@ -13,7 +13,8 @@
 This application creates notes using the CRUD method - Create, Read, Update & Delete
 
 ## How to Install
-run: npm install in your terminal/bash, then node index
+run: `npm install` in your terminal/bash, then `node server`
+or: click * https://rocky-ocean-82694.herokuapp.com/
 
 ## Usage
 You would use this application to create notes that are savable, editable and deletable.
@@ -22,4 +23,4 @@ You would use this application to create notes that are savable, editable and de
 * **Karla McLeod** - [kmcleod81](https://github.com/kmcleod81)
 
 ## Link to Page
-* https://kmcleod81.github.io/node-readme-generator/
+* https://rocky-ocean-82694.herokuapp.com/
