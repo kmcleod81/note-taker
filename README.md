@@ -1,6 +1,6 @@
 # note-taker
 
-![Readme Generator](./assets/img/noteTaker.gif)
+![Note Taker](./assets/img/noteTaker.gif)
 
 ## Table of Contents:
 * [Description](#Description)
